@@ -1,0 +1,228 @@
+Patient_ID,Patient_Name,Age,Gender,City,Medication,Blood_Pressure,Glucose_Level,Heart_Rate,Doctor_Name,Condition,Prescribed_Drug
+1,John Smith,19,Female,Delhi,Ibuprofen,161/92,154.9,86,Dr Raj,Hypertension,Amlodipine
+1,John Smith,19,Female,Delhi,Ibuprofen,161/92,154.9,86,Dr Raj,Hypertension,Losartan
+2,Aisha Khan,71,Female,Pune,Paracetamol,162/61,173.5,74,Dr Raj,Hypertension,Amlodipine
+2,Aisha Khan,71,Female,Pune,Paracetamol,162/61,173.5,74,Dr Raj,Hypertension,Losartan
+3,Sunita Reddy,22,Female,Bangalore,Amlodipine,111/109,129.5,107,Dr Raj,Arthritis,Consult Specialist
+4,Aisha Khan,83,Male,Mumbai,Amlodipine,159/112,168.4,108,Dr Rani,Asthma,Salbutamol
+4,Aisha Khan,83,Male,Mumbai,Amlodipine,159/112,168.4,108,Dr Rani,Asthma,Budesonide
+5,Aisha Khan,45,Female,Mumbai,Insulin,128/115,199.9,88,Dr Raj,COVID-19,Consult Specialist
+6,Sunita Reddy,62,Male,Pune,Insulin,116/111,165.9,104,Dr Sudha,Diabetes,Metformin
+6,Sunita Reddy,62,Male,Pune,Insulin,116/111,165.9,104,Dr Sudha,Diabetes,Insulin
+7,John Smith,72,Male,Delhi,Insulin,97/96,115.6,77,Dr Raj,Hypertension,Amlodipine
+7,John Smith,72,Male,Delhi,Insulin,97/96,115.6,77,Dr Raj,Hypertension,Losartan
+8,Anjali Roy,39,Female,Chennai,Amlodipine,155/117,158.3,66,Dr Rani,Asthma,Salbutamol
+8,Anjali Roy,39,Female,Chennai,Amlodipine,155/117,158.3,66,Dr Rani,Asthma,Budesonide
+9,David Miller,70,Male,Chennai,Insulin,179/115,87.2,69,Dr Raj,COVID-19,Consult Specialist
+10,John Smith,49,Female,Pune,Amlodipine,170/86,118.8,64,Dr Raj,Hypertension,Amlodipine
+10,John Smith,49,Female,Pune,Amlodipine,170/86,118.8,64,Dr Raj,Hypertension,Losartan
+11,Jane Smith,69,Female,Kolkata,Ibuprofen,131/97,70.3,109,Dr Raj,Cancer,Consult Specialist
+12,Jane Smith,76,Female,Mumbai,Ibuprofen,117/87,177.2,91,Dr Raj,Arthritis,Consult Specialist
+13,Sunita Reddy,59,Female,Kolkata,Insulin,162/114,133.1,81,Dr Raj,Arthritis,Consult Specialist
+14,Tom Kumar,23,Male,Pune,Paracetamol,110/88,129.3,87,Dr Sudha,Diabetes,Metformin
+14,Tom Kumar,23,Male,Pune,Paracetamol,110/88,129.3,87,Dr Sudha,Diabetes,Insulin
+15,Priya Mehta,34,Female,Delhi,Paracetamol,173/83,102.6,83,Dr Rani,Asthma,Salbutamol
+15,Priya Mehta,34,Female,Delhi,Paracetamol,173/83,102.6,83,Dr Rani,Asthma,Budesonide
+16,David Miller,24,Female,Chennai,Insulin,144/101,81.9,66,Dr Raj,COVID-19,Consult Specialist
+17,Tom Kumar,45,Female,Mumbai,Insulin,156/103,127.9,60,Dr Raj,Hypertension,Amlodipine
+17,Tom Kumar,45,Female,Mumbai,Insulin,156/103,127.9,60,Dr Raj,Hypertension,Losartan
+18,John Smith,33,Female,Delhi,Paracetamol,119/84,81.6,111,Dr Raj,Cancer,Consult Specialist
+19,Jane Smith,31,Female,Kolkata,Insulin,138/109,175.7,115,Dr Rani,Asthma,Salbutamol
+19,Jane Smith,31,Female,Kolkata,Insulin,138/109,175.7,115,Dr Rani,Asthma,Budesonide
+20,David Miller,36,Male,Hyderabad,Insulin,146/82,163.9,100,Dr Raj,Arthritis,Consult Specialist
+21,David Miller,70,Female,Bangalore,Paracetamol,107/108,86.0,106,Dr Sudha,Diabetes,Metformin
+21,David Miller,70,Female,Bangalore,Paracetamol,107/108,86.0,106,Dr Sudha,Diabetes,Insulin
+22,Ravi Rao,62,Female,Kolkata,Insulin,125/101,81.0,95,Dr Raj,Hypertension,Amlodipine
+22,Ravi Rao,62,Female,Kolkata,Insulin,125/101,81.0,95,Dr Raj,Hypertension,Losartan
+23,Anjali Roy,54,Male,Chennai,Insulin,140/78,154.0,110,Dr Raj,Hypertension,Amlodipine
+23,Anjali Roy,54,Male,Chennai,Insulin,140/78,154.0,110,Dr Raj,Hypertension,Losartan
+24,Priya Mehta,81,Female,Mumbai,Ibuprofen,171/98,79.2,116,Dr Raj,Hypertension,Amlodipine
+24,Priya Mehta,81,Female,Mumbai,Ibuprofen,171/98,79.2,116,Dr Raj,Hypertension,Losartan
+25,Tom Kumar,64,Female,Delhi,Ibuprofen,136/94,158.8,108,Dr Raj,Cancer,Consult Specialist
+26,Aisha Khan,27,Male,Mumbai,Amlodipine,117/62,189.9,120,Dr Sudha,Diabetes,Metformin
+26,Aisha Khan,27,Male,Mumbai,Amlodipine,117/62,189.9,120,Dr Sudha,Diabetes,Insulin
+27,Ravi Rao,82,Female,Ahmedabad,Ibuprofen,100/100,139.8,99,Dr Raj,Cancer,Consult Specialist
+28,David Miller,53,Male,Chennai,Insulin,109/94,112.5,97,Dr Sudha,Diabetes,Metformin
+28,David Miller,53,Male,Chennai,Insulin,109/94,112.5,97,Dr Sudha,Diabetes,Insulin
+29,Jane Smith,57,Female,Bangalore,Insulin,101/119,126.5,89,Dr Sudha,Diabetes,Metformin
+29,Jane Smith,57,Female,Bangalore,Insulin,101/119,126.5,89,Dr Sudha,Diabetes,Insulin
+30,Anjali Roy,25,Female,Delhi,Paracetamol,180/68,161.2,70,Dr Sudha,Diabetes,Metformin
+30,Anjali Roy,25,Female,Delhi,Paracetamol,180/68,161.2,70,Dr Sudha,Diabetes,Insulin
+31,Aisha Khan,62,Female,Delhi,Insulin,124/106,185.2,109,Dr Rani,Asthma,Salbutamol
+31,Aisha Khan,62,Female,Delhi,Insulin,124/106,185.2,109,Dr Rani,Asthma,Budesonide
+32,Tom Kumar,60,Female,Chennai,Paracetamol,123/105,196.8,100,Dr Raj,Arthritis,Consult Specialist
+33,Jane Smith,81,Female,Kolkata,Ibuprofen,162/70,117.8,76,Dr Sudha,Diabetes,Metformin
+33,Jane Smith,81,Female,Kolkata,Ibuprofen,162/70,117.8,76,Dr Sudha,Diabetes,Insulin
+34,Jane Smith,32,Male,Hyderabad,Paracetamol,121/62,131.3,84,Dr Sudha,Diabetes,Metformin
+34,Jane Smith,32,Male,Hyderabad,Paracetamol,121/62,131.3,84,Dr Sudha,Diabetes,Insulin
+35,David Miller,40,Male,Ahmedabad,Amlodipine,121/86,189.1,80,Dr Raj,Hypertension,Amlodipine
+35,David Miller,40,Male,Ahmedabad,Amlodipine,121/86,189.1,80,Dr Raj,Hypertension,Losartan
+36,Sunita Reddy,27,Female,Mumbai,Paracetamol,112/74,174.6,62,Dr Raj,Arthritis,Consult Specialist
+37,Ravi Rao,26,Female,Chennai,Amlodipine,101/95,129.4,83,Dr Rani,Asthma,Salbutamol
+37,Ravi Rao,26,Female,Chennai,Amlodipine,101/95,129.4,83,Dr Rani,Asthma,Budesonide
+38,Priya Mehta,55,Female,Bangalore,Amlodipine,165/91,199.7,109,Dr Raj,Cancer,Consult Specialist
+39,Priya Mehta,49,Male,Hyderabad,Paracetamol,119/94,115.0,113,Dr Raj,Cancer,Consult Specialist
+40,Tom Kumar,60,Male,Ahmedabad,Amlodipine,103/73,138.9,75,Dr Raj,COVID-19,Consult Specialist
+41,Ravi Rao,80,Male,Delhi,Amlodipine,101/62,189.8,117,Dr Raj,COVID-19,Consult Specialist
+42,Kiran Patel,70,Female,Pune,Paracetamol,164/66,135.7,100,Dr Raj,COVID-19,Consult Specialist
+43,Ravi Rao,27,Male,Ahmedabad,Insulin,120/78,103.9,80,Dr Raj,COVID-19,Consult Specialist
+44,Ravi Rao,59,Female,Pune,Insulin,99/120,96.4,109,Dr Rani,Asthma,Salbutamol
+44,Ravi Rao,59,Female,Pune,Insulin,99/120,96.4,109,Dr Rani,Asthma,Budesonide
+45,Anjali Roy,31,Male,Mumbai,Ibuprofen,149/80,122.8,94,Dr Raj,Hypertension,Amlodipine
+45,Anjali Roy,31,Male,Mumbai,Ibuprofen,149/80,122.8,94,Dr Raj,Hypertension,Losartan
+46,John Smith,44,Female,Chennai,Amlodipine,105/65,90.5,103,Dr Raj,Cancer,Consult Specialist
+47,Sunita Reddy,23,Male,Kolkata,Paracetamol,121/82,121.5,63,Dr Raj,Hypertension,Amlodipine
+47,Sunita Reddy,23,Male,Kolkata,Paracetamol,121/82,121.5,63,Dr Raj,Hypertension,Losartan
+48,Sunita Reddy,51,Male,Hyderabad,Ibuprofen,161/107,141.5,66,Dr Raj,Cancer,Consult Specialist
+49,Aisha Khan,31,Male,Mumbai,Paracetamol,118/68,95.8,85,Dr Sudha,Diabetes,Metformin
+49,Aisha Khan,31,Male,Mumbai,Paracetamol,118/68,95.8,85,Dr Sudha,Diabetes,Insulin
+50,John Smith,28,Female,Mumbai,Paracetamol,115/117,154.0,111,Dr Sudha,Diabetes,Metformin
+50,John Smith,28,Female,Mumbai,Paracetamol,115/117,154.0,111,Dr Sudha,Diabetes,Insulin
+51,David Miller,29,Female,Mumbai,Ibuprofen,96/70,190.1,87,Dr Sudha,Diabetes,Metformin
+51,David Miller,29,Female,Mumbai,Ibuprofen,96/70,190.1,87,Dr Sudha,Diabetes,Insulin
+52,Ravi Rao,81,Male,Ahmedabad,Ibuprofen,112/82,97.9,71,Dr Raj,COVID-19,Consult Specialist
+53,Sunita Reddy,53,Female,Delhi,Insulin,172/78,134.9,116,Dr Sudha,Diabetes,Metformin
+53,Sunita Reddy,53,Female,Delhi,Insulin,172/78,134.9,116,Dr Sudha,Diabetes,Insulin
+54,Kiran Patel,79,Male,Mumbai,Ibuprofen,107/86,95.9,116,Dr Rani,Asthma,Salbutamol
+54,Kiran Patel,79,Male,Mumbai,Ibuprofen,107/86,95.9,116,Dr Rani,Asthma,Budesonide
+55,Kiran Patel,49,Male,Ahmedabad,Amlodipine,151/94,171.6,82,Dr Raj,COVID-19,Consult Specialist
+56,Anjali Roy,82,Female,Ahmedabad,Insulin,93/80,147.6,61,Dr Rani,Asthma,Salbutamol
+56,Anjali Roy,82,Female,Ahmedabad,Insulin,93/80,147.6,61,Dr Rani,Asthma,Budesonide
+57,Sunita Reddy,25,Female,Kolkata,Insulin,110/66,102.2,75,Dr Raj,Arthritis,Consult Specialist
+58,Sunita Reddy,25,Male,Ahmedabad,Insulin,112/75,147.0,111,Dr Rani,Asthma,Salbutamol
+58,Sunita Reddy,25,Male,Ahmedabad,Insulin,112/75,147.0,111,Dr Rani,Asthma,Budesonide
+59,John Smith,21,Female,Delhi,Insulin,153/94,110.2,91,Dr Raj,Arthritis,Consult Specialist
+60,Tom Kumar,29,Male,Bangalore,Insulin,92/93,132.1,81,Dr Raj,Arthritis,Consult Specialist
+61,Anjali Roy,43,Male,Kolkata,Insulin,131/63,72.8,97,Dr Raj,COVID-19,Consult Specialist
+62,David Miller,32,Female,Mumbai,Ibuprofen,165/66,113.8,80,Dr Rani,Asthma,Salbutamol
+62,David Miller,32,Female,Mumbai,Ibuprofen,165/66,113.8,80,Dr Rani,Asthma,Budesonide
+63,David Miller,38,Female,Pune,Amlodipine,112/105,195.9,104,Dr Raj,COVID-19,Consult Specialist
+64,Anjali Roy,63,Male,Delhi,Amlodipine,178/78,86.6,106,Dr Raj,Cancer,Consult Specialist
+65,Tom Kumar,68,Male,Delhi,Amlodipine,168/74,153.2,66,Dr Raj,Arthritis,Consult Specialist
+66,Aisha Khan,36,Female,Mumbai,Amlodipine,130/70,152.7,65,Dr Raj,Hypertension,Amlodipine
+66,Aisha Khan,36,Female,Mumbai,Amlodipine,130/70,152.7,65,Dr Raj,Hypertension,Losartan
+67,John Smith,75,Male,Chennai,Insulin,178/64,115.6,110,Dr Raj,Hypertension,Amlodipine
+67,John Smith,75,Male,Chennai,Insulin,178/64,115.6,110,Dr Raj,Hypertension,Losartan
+68,Jane Smith,18,Male,Ahmedabad,Ibuprofen,111/116,123.8,116,Dr Raj,Cancer,Consult Specialist
+69,Ravi Rao,62,Female,Mumbai,Insulin,110/88,79.6,114,Dr Raj,Cancer,Consult Specialist
+70,Tom Kumar,55,Male,Kolkata,Paracetamol,99/81,92.1,84,Dr Rani,Asthma,Salbutamol
+70,Tom Kumar,55,Male,Kolkata,Paracetamol,99/81,92.1,84,Dr Rani,Asthma,Budesonide
+71,David Miller,27,Male,Kolkata,Ibuprofen,180/61,126.1,101,Dr Raj,Arthritis,Consult Specialist
+72,David Miller,73,Male,Hyderabad,Amlodipine,116/72,123.2,95,Dr Sudha,Diabetes,Metformin
+72,David Miller,73,Male,Hyderabad,Amlodipine,116/72,123.2,95,Dr Sudha,Diabetes,Insulin
+73,Kiran Patel,51,Female,Chennai,Paracetamol,96/85,144.3,113,Dr Raj,Hypertension,Amlodipine
+73,Kiran Patel,51,Female,Chennai,Paracetamol,96/85,144.3,113,Dr Raj,Hypertension,Losartan
+74,Aisha Khan,37,Male,Kolkata,Ibuprofen,101/78,177.1,100,Dr Sudha,Diabetes,Metformin
+74,Aisha Khan,37,Male,Kolkata,Ibuprofen,101/78,177.1,100,Dr Sudha,Diabetes,Insulin
+75,Anjali Roy,79,Male,Mumbai,Insulin,111/100,107.9,65,Dr Sudha,Diabetes,Metformin
+75,Anjali Roy,79,Male,Mumbai,Insulin,111/100,107.9,65,Dr Sudha,Diabetes,Insulin
+76,Aisha Khan,32,Female,Ahmedabad,Ibuprofen,174/76,81.8,94,Dr Raj,Cancer,Consult Specialist
+77,Ravi Rao,41,Female,Ahmedabad,Insulin,147/62,104.2,89,Dr Rani,Asthma,Salbutamol
+77,Ravi Rao,41,Female,Ahmedabad,Insulin,147/62,104.2,89,Dr Rani,Asthma,Budesonide
+78,Sunita Reddy,46,Female,Hyderabad,Paracetamol,100/102,114.7,94,Dr Raj,Hypertension,Amlodipine
+78,Sunita Reddy,46,Female,Hyderabad,Paracetamol,100/102,114.7,94,Dr Raj,Hypertension,Losartan
+79,Ravi Rao,47,Male,Ahmedabad,Ibuprofen,158/103,182.7,90,Dr Raj,Arthritis,Consult Specialist
+80,Anjali Roy,48,Female,Chennai,Ibuprofen,94/92,144.3,93,Dr Sudha,Diabetes,Metformin
+80,Anjali Roy,48,Female,Chennai,Ibuprofen,94/92,144.3,93,Dr Sudha,Diabetes,Insulin
+81,Anjali Roy,36,Male,Pune,Insulin,117/111,95.1,62,Dr Raj,Hypertension,Amlodipine
+81,Anjali Roy,36,Male,Pune,Insulin,117/111,95.1,62,Dr Raj,Hypertension,Losartan
+82,Ravi Rao,28,Female,Bangalore,Insulin,166/76,111.6,106,Dr Raj,COVID-19,Consult Specialist
+83,Jane Smith,29,Female,Ahmedabad,Amlodipine,125/93,129.6,115,Dr Raj,Arthritis,Consult Specialist
+84,Tom Kumar,84,Female,Mumbai,Insulin,108/96,146.4,108,Dr Raj,Cancer,Consult Specialist
+85,Jane Smith,31,Male,Chennai,Amlodipine,142/76,119.8,91,Dr Raj,Arthritis,Consult Specialist
+86,Anjali Roy,78,Male,Delhi,Ibuprofen,108/99,149.1,104,Dr Rani,Asthma,Salbutamol
+86,Anjali Roy,78,Male,Delhi,Ibuprofen,108/99,149.1,104,Dr Rani,Asthma,Budesonide
+87,Ravi Rao,22,Female,Kolkata,Insulin,96/107,131.8,77,Dr Raj,COVID-19,Consult Specialist
+88,John Smith,20,Female,Chennai,Amlodipine,152/114,160.5,66,Dr Rani,Asthma,Salbutamol
+88,John Smith,20,Female,Chennai,Amlodipine,152/114,160.5,66,Dr Rani,Asthma,Budesonide
+89,Priya Mehta,35,Female,Pune,Amlodipine,143/98,153.9,72,Dr Rani,Asthma,Salbutamol
+89,Priya Mehta,35,Female,Pune,Amlodipine,143/98,153.9,72,Dr Rani,Asthma,Budesonide
+90,Aisha Khan,45,Female,Pune,Amlodipine,97/92,172.9,64,Dr Raj,Arthritis,Consult Specialist
+91,Sunita Reddy,82,Female,Delhi,Paracetamol,112/72,183.8,72,Dr Raj,Arthritis,Consult Specialist
+92,Tom Kumar,49,Male,Pune,Amlodipine,180/72,105.6,112,Dr Sudha,Diabetes,Metformin
+92,Tom Kumar,49,Male,Pune,Amlodipine,180/72,105.6,112,Dr Sudha,Diabetes,Insulin
+93,Aisha Khan,82,Female,Mumbai,Paracetamol,120/83,133.5,88,Dr Raj,COVID-19,Consult Specialist
+94,David Miller,78,Female,Kolkata,Amlodipine,178/65,107.1,84,Dr Raj,Hypertension,Amlodipine
+94,David Miller,78,Female,Kolkata,Amlodipine,178/65,107.1,84,Dr Raj,Hypertension,Losartan
+95,Tom Kumar,38,Male,Bangalore,Insulin,176/73,105.0,86,Dr Raj,COVID-19,Consult Specialist
+96,Kiran Patel,20,Male,Pune,Insulin,166/111,71.1,76,Dr Raj,Hypertension,Amlodipine
+96,Kiran Patel,20,Male,Pune,Insulin,166/111,71.1,76,Dr Raj,Hypertension,Losartan
+97,Anjali Roy,57,Female,Ahmedabad,Amlodipine,148/76,98.4,79,Dr Raj,Cancer,Consult Specialist
+98,Kiran Patel,68,Male,Hyderabad,Amlodipine,161/101,147.2,78,Dr Raj,Arthritis,Consult Specialist
+99,Sunita Reddy,31,Female,Mumbai,Amlodipine,171/80,182.0,76,Dr Rani,Asthma,Salbutamol
+99,Sunita Reddy,31,Female,Mumbai,Amlodipine,171/80,182.0,76,Dr Rani,Asthma,Budesonide
+100,Sunita Reddy,42,Male,Bangalore,Ibuprofen,174/80,158.5,106,Dr Sudha,Diabetes,Metformin
+100,Sunita Reddy,42,Male,Bangalore,Ibuprofen,174/80,158.5,106,Dr Sudha,Diabetes,Insulin
+101,Tom Kumar,81,Female,Chennai,Ibuprofen,139/107,74.6,105,Dr Raj,Cancer,Consult Specialist
+102,Anjali Roy,42,Female,Bangalore,Ibuprofen,175/82,136.0,114,Dr Raj,COVID-19,Consult Specialist
+103,David Miller,41,Female,Mumbai,Insulin,123/106,175.1,108,Dr Raj,Cancer,Consult Specialist
+104,David Miller,60,Male,Bangalore,Insulin,129/86,172.5,81,Dr Rani,Asthma,Salbutamol
+104,David Miller,60,Male,Bangalore,Insulin,129/86,172.5,81,Dr Rani,Asthma,Budesonide
+105,John Smith,51,Female,Pune,Ibuprofen,96/115,152.5,97,Dr Sudha,Diabetes,Metformin
+105,John Smith,51,Female,Pune,Ibuprofen,96/115,152.5,97,Dr Sudha,Diabetes,Insulin
+106,Anjali Roy,27,Female,Bangalore,Paracetamol,177/84,138.9,86,Dr Raj,Arthritis,Consult Specialist
+107,Tom Kumar,37,Male,Bangalore,Ibuprofen,162/117,187.9,89,Dr Rani,Asthma,Salbutamol
+107,Tom Kumar,37,Male,Bangalore,Ibuprofen,162/117,187.9,89,Dr Rani,Asthma,Budesonide
+108,David Miller,58,Male,Mumbai,Amlodipine,170/71,110.7,63,Dr Raj,Cancer,Consult Specialist
+109,Tom Kumar,75,Female,Bangalore,Insulin,152/110,169.3,65,Dr Raj,Hypertension,Amlodipine
+109,Tom Kumar,75,Female,Bangalore,Insulin,152/110,169.3,65,Dr Raj,Hypertension,Losartan
+110,David Miller,73,Female,Ahmedabad,Ibuprofen,139/60,74.9,72,Dr Raj,Cancer,Consult Specialist
+111,John Smith,19,Female,Bangalore,Paracetamol,170/106,102.3,104,Dr Sudha,Diabetes,Metformin
+111,John Smith,19,Female,Bangalore,Paracetamol,170/106,102.3,104,Dr Sudha,Diabetes,Insulin
+112,John Smith,57,Male,Mumbai,Amlodipine,111/64,177.1,79,Dr Raj,Cancer,Consult Specialist
+113,Sunita Reddy,76,Female,Ahmedabad,Insulin,133/117,133.7,108,Dr Raj,COVID-19,Consult Specialist
+114,Priya Mehta,39,Female,Hyderabad,Insulin,106/73,165.4,97,Dr Raj,Hypertension,Amlodipine
+114,Priya Mehta,39,Female,Hyderabad,Insulin,106/73,165.4,97,Dr Raj,Hypertension,Losartan
+115,Kiran Patel,39,Male,Kolkata,Paracetamol,138/116,153.2,109,Dr Raj,COVID-19,Consult Specialist
+116,Kiran Patel,24,Male,Mumbai,Paracetamol,96/104,85.1,88,Dr Raj,COVID-19,Consult Specialist
+117,Ravi Rao,33,Female,Pune,Insulin,116/104,159.1,60,Dr Raj,COVID-19,Consult Specialist
+118,Sunita Reddy,71,Male,Chennai,Insulin,143/113,186.8,92,Dr Raj,Arthritis,Consult Specialist
+119,Anjali Roy,33,Female,Mumbai,Ibuprofen,115/98,96.0,76,Dr Sudha,Diabetes,Metformin
+119,Anjali Roy,33,Female,Mumbai,Ibuprofen,115/98,96.0,76,Dr Sudha,Diabetes,Insulin
+120,Kiran Patel,43,Female,Ahmedabad,Insulin,95/95,134.5,73,Dr Rani,Asthma,Salbutamol
+120,Kiran Patel,43,Female,Ahmedabad,Insulin,95/95,134.5,73,Dr Rani,Asthma,Budesonide
+121,Aisha Khan,60,Male,Hyderabad,Paracetamol,104/113,144.6,91,Dr Sudha,Diabetes,Metformin
+121,Aisha Khan,60,Male,Hyderabad,Paracetamol,104/113,144.6,91,Dr Sudha,Diabetes,Insulin
+122,David Miller,29,Male,Mumbai,Insulin,148/78,104.3,63,Dr Rani,Asthma,Salbutamol
+122,David Miller,29,Male,Mumbai,Insulin,148/78,104.3,63,Dr Rani,Asthma,Budesonide
+123,Jane Smith,40,Male,Chennai,Amlodipine,144/107,85.1,114,Dr Rani,Asthma,Salbutamol
+123,Jane Smith,40,Male,Chennai,Amlodipine,144/107,85.1,114,Dr Rani,Asthma,Budesonide
+124,Tom Kumar,19,Male,Delhi,Amlodipine,146/99,104.9,106,Dr Rani,Asthma,Salbutamol
+124,Tom Kumar,19,Male,Delhi,Amlodipine,146/99,104.9,106,Dr Rani,Asthma,Budesonide
+125,Jane Smith,65,Female,Delhi,Ibuprofen,141/89,105.3,84,Dr Sudha,Diabetes,Metformin
+125,Jane Smith,65,Female,Delhi,Ibuprofen,141/89,105.3,84,Dr Sudha,Diabetes,Insulin
+126,Aisha Khan,71,Male,Mumbai,Paracetamol,110/66,124.1,97,Dr Raj,Hypertension,Amlodipine
+126,Aisha Khan,71,Male,Mumbai,Paracetamol,110/66,124.1,97,Dr Raj,Hypertension,Losartan
+127,Aisha Khan,74,Male,Ahmedabad,Paracetamol,177/116,179.0,117,Dr Rani,Asthma,Salbutamol
+127,Aisha Khan,74,Male,Ahmedabad,Paracetamol,177/116,179.0,117,Dr Rani,Asthma,Budesonide
+128,David Miller,79,Female,Mumbai,Ibuprofen,95/64,104.0,80,Dr Raj,Cancer,Consult Specialist
+129,Tom Kumar,85,Male,Kolkata,Paracetamol,145/102,164.5,90,Dr Raj,Arthritis,Consult Specialist
+130,John Smith,67,Male,Hyderabad,Insulin,154/114,131.0,91,Dr Sudha,Diabetes,Metformin
+130,John Smith,67,Male,Hyderabad,Insulin,154/114,131.0,91,Dr Sudha,Diabetes,Insulin
+131,David Miller,27,Female,Kolkata,Amlodipine,125/63,135.9,95,Dr Raj,Hypertension,Amlodipine
+131,David Miller,27,Female,Kolkata,Amlodipine,125/63,135.9,95,Dr Raj,Hypertension,Losartan
+132,Ravi Rao,69,Male,Mumbai,Ibuprofen,163/88,81.4,91,Dr Raj,Cancer,Consult Specialist
+133,Aisha Khan,58,Male,Pune,Paracetamol,103/85,123.6,95,Dr Raj,COVID-19,Consult Specialist
+134,Kiran Patel,18,Male,Chennai,Insulin,173/102,129.3,81,Dr Raj,Arthritis,Consult Specialist
+135,John Smith,24,Male,Pune,Ibuprofen,174/83,163.1,67,Dr Rani,Asthma,Salbutamol
+135,John Smith,24,Male,Pune,Ibuprofen,174/83,163.1,67,Dr Rani,Asthma,Budesonide
+136,Jane Smith,46,Male,Kolkata,Amlodipine,160/93,118.6,66,Dr Rani,Asthma,Salbutamol
+136,Jane Smith,46,Male,Kolkata,Amlodipine,160/93,118.6,66,Dr Rani,Asthma,Budesonide
+137,Tom Kumar,39,Female,Delhi,Ibuprofen,103/76,149.4,72,Dr Raj,COVID-19,Consult Specialist
+138,Jane Smith,68,Male,Pune,Amlodipine,103/108,123.9,119,Dr Raj,Hypertension,Amlodipine
+138,Jane Smith,68,Male,Pune,Amlodipine,103/108,123.9,119,Dr Raj,Hypertension,Losartan
+139,Anjali Roy,33,Female,Pune,Insulin,153/60,138.9,63,Dr Raj,COVID-19,Consult Specialist
+140,Kiran Patel,73,Female,Delhi,Insulin,106/66,120.4,98,Dr Raj,COVID-19,Consult Specialist
+141,Anjali Roy,59,Female,Ahmedabad,Insulin,125/85,195.3,78,Dr Raj,Arthritis,Consult Specialist
+142,Aisha Khan,35,Male,Ahmedabad,Amlodipine,179/95,181.9,105,Dr Raj,Arthritis,Consult Specialist
+143,Kiran Patel,45,Male,Bangalore,Amlodipine,177/82,189.8,68,Dr Raj,Arthritis,Consult Specialist
+144,David Miller,82,Female,Mumbai,Ibuprofen,164/96,192.5,105,Dr Rani,Asthma,Salbutamol
+144,David Miller,82,Female,Mumbai,Ibuprofen,164/96,192.5,105,Dr Rani,Asthma,Budesonide
+145,Ravi Rao,54,Female,Hyderabad,Paracetamol,93/84,88.9,102,Dr Raj,Arthritis,Consult Specialist
+146,Tom Kumar,43,Female,Delhi,Amlodipine,108/113,78.1,110,Dr Rani,Asthma,Salbutamol
+146,Tom Kumar,43,Female,Delhi,Amlodipine,108/113,78.1,110,Dr Rani,Asthma,Budesonide
+147,Sunita Reddy,44,Male,Kolkata,Paracetamol,168/115,157.8,95,Dr Raj,Cancer,Consult Specialist
+148,Priya Mehta,67,Male,Chennai,Paracetamol,138/84,124.2,110,Dr Raj,COVID-19,Consult Specialist
+149,John Smith,24,Male,Chennai,Ibuprofen,118/118,152.4,105,Dr Raj,Hypertension,Amlodipine
+149,John Smith,24,Male,Chennai,Ibuprofen,118/118,152.4,105,Dr Raj,Hypertension,Losartan
+150,John Smith,43,Male,Chennai,Insulin,177/64,94.3,71,Dr Raj,Cancer,Consult Specialist
