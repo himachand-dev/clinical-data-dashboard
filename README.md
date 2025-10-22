@@ -35,8 +35,8 @@ This project has a straightforward structure, containing the main application sc
 ### 1\. Clone the Repository (Optional)
 
 ```bash
-git clone <repository_url>
-cd <project-folder-name>
+git clone https://github.com/himachand-dev/clinical-data-dashboard
+cd Assignment.8.py
 ```
 
 ### 2\. Prepare Data File
